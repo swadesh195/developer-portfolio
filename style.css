@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: "Poppins", sans-serif;
 }
-section {
+.flexible-container {
   display: flex;
   margin-bottom: 150px;
 }
